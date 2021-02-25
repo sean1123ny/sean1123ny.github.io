@@ -7,3 +7,11 @@
 
 ![統神](https://i.ytimg.com/vi/dMTy6C4UiQ4/maxresdefault.jpg)
 (https://www.youtube.com/watch?v=072tU1tamd0)
+
+```c
+#include(stdio.h)
+int main()
+{
+  printf("hello world")
+}
+```
